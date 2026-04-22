@@ -1,4 +1,4 @@
-BookNest — E-Book Library Web App
+BookNest E-Book Library Web App
 
 A React-based web application for browsing, searching, and reading free eBooks online.
 
@@ -14,7 +14,7 @@ The goal of the project is to simplify access to free reading resources by provi
 
 ## Tech Stack
 
-* **React** — Frontend framework
+* **React** - Frontend framework
 * **React Router** — Client-side routing
 * **Open Library API** — Book data and covers
 * **Tailwind CSS** — Styling and responsive layout
