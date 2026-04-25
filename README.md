@@ -54,7 +54,7 @@ The app uses client-side routing for smooth transitions between pages such as Ho
 
 ---
 
-## Optional Enhancements
+## Future Enhancements
 
 * Dark mode toggle
 * Sorting (popularity, rating, newest)
