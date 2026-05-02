@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BookNest/static/css/main.1a34b828.css",
+    "main.js": "/BookNest/static/js/main.5be415c2.js",
+    "index.html": "/BookNest/index.html",
+    "main.1a34b828.css.map": "/BookNest/static/css/main.1a34b828.css.map",
+    "main.5be415c2.js.map": "/BookNest/static/js/main.5be415c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a34b828.css",
+    "static/js/main.5be415c2.js"
+  ]
+}
